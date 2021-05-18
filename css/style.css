@@ -370,7 +370,7 @@ button:focus {
 
 #banner .banner-btn .reserv-btn:hover::before,
 #banner .banner-btn .reserv-btn:hover::after {
-    width: 33.5%;
+    width: 190px;
 }
 
 #banner .banner-btn .reserv-btn a {

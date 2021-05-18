@@ -1,0 +1,306 @@
+@media only screen and (min-width:768px) and (max-width:991px) {
+    #banner {
+        padding: 160px 0 200px 0 !important;
+        background-size: 50% !important;
+    }
+
+    #banner::after {
+        right: 10% !important;
+        top: 20% !important;
+    }
+
+    .ml-100 {
+        margin-left: 0px !important;
+    }
+
+    #header .navbar-expand-md .book-btn a {
+        padding: 8px 10px !important;
+        font-size: 14px !important;
+    }
+
+    #header .navbar-expand-md .navbar-nav .nav-link {
+        padding: 0 8px !important;
+    }
+
+    #exclucive::after {
+        background-size: 50% 70% !important;
+    }
+
+    #about .about-text-area {
+        padding: 0 !important;
+    }
+
+    #about .about-img {
+        margin-top: 70px;
+    }
+
+    #food-menu .tab-navigation {
+        margin-top: 0px !important;
+        padding: 45px 0;
+    }
+
+    #food-menu .section_title {
+        margin: 15px 0 !important;
+    }
+
+    #food-menu .menu-item .menu-img {
+        border: 0 !important;
+    }
+
+    #food-menu .menu-text {
+        padding: 40px 30px;
+        border: 1px solid #e7e7e7;
+        border-radius: 100px 0px 623px 77px / 0px 50px 128px 58px;
+        background-color: #fff;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    #food-menu .menu-item {
+        background: transparent !important;
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    .navbar-collapse  {
+        text-align: center !important;
+        padding: 15px 0 !important;
+        background: rgba(255 227 215 / 90%) !important;
+    }
+    #header img {
+        width: 120px !important;
+    }
+
+    .ml-100 {
+        margin-left: 0 !important;
+    }
+
+    #banner {
+        padding: 145px 0 260px 0 !important;
+        background-size: 50% !important;
+    }
+
+    #banner .banner-text h2 {
+        font-size: 35px !important;
+    }
+
+    .section_title h4 {
+        font-size: 35px !important;
+    }
+
+    #banner::after {
+        right: 5% !important;
+        top: 10% !important;
+    }
+
+    #about .about-text-area {
+        padding: 0 !important;
+    }
+
+    #food-menu .tab-navigation {
+        margin-top: 0px !important;
+        padding: 45px 0 !important;
+    }
+
+    #food-menu .section_title {
+        margin: 0 !important;
+    }
+
+    #food-menu .menu-item .menu-img {
+        border: 0 !important;
+    }
+
+    #food-menu .menu-text {
+        padding: 40px 30px !important;
+        border: 1px solid #e7e7e7 !important;
+        border-radius: 100px 0px 623px 77px / 0px 50px 128px 58px !important;
+        background-color: #fff !important;
+        -webkit-transition: 0.5s;
+        transition: 0.5s !important;
+    }
+
+    #food-menu .menu-item {
+        background: transparent !important;
+    }
+
+    .testimonial-bg::before {
+        height: 0 !important;
+        width: 0px !important;
+    }
+
+    .client-img {
+        margin: 15px 0 !important;
+    }
+}
+
+@media only screen and (max-width:569px) {
+    .navbar-collapse  {
+        text-align: center !important;
+        padding: 15px 0 !important;
+        background: rgba(255 227 215 / 90%) !important;
+    }
+    #header img {
+        width: 100px !important;
+    }
+
+    #header .navbar-expand-md .book-btn a {
+        padding: 8px !important;
+        font-size: 14px !important;
+    }
+
+    .ml-100 {
+        margin-left: 0 !important;
+    }
+
+    #header img {
+        margin-right: 0px !important;
+    }
+
+    #banner {
+        padding: 145px 0 260px 0 !important;
+        background-size: 50% !important;
+    }
+
+    #banner .banner-text h5 {
+        font-size: 20px !important;
+    }
+
+    #banner .banner-text h2 {
+        font-size: 28px !important;
+    }
+
+    .section_title h4 {
+        font-size: 35px !important;
+    }
+
+    #banner::after {
+        right: 0% !important;
+        top: 10% !important;
+    }
+
+    #banner .banner-btn .story-btn {
+        margin: 15px 0 !important;
+    }
+
+    #banner .banner-btn .story-btn a {
+        margin-left: 0 !important;
+    }
+
+    #exclucive .single_item .item_text {
+        padding: 25px !important;
+    }
+
+    #exclucive .single_item .item_text h5 {
+        font-size: 20px !important;
+        margin-bottom: 15px !important;
+    }
+
+    #exclucive::after {
+        background: transparent !important;
+    }
+
+    #about .about-text-area .read_btn {
+        margin-top: 0 !important;
+    }
+
+    #about .about-text-area {
+        padding: 0 !important;
+    }
+
+    .section_title h4 {
+        font-size: 28px !important;
+    }
+
+    #about .about-text-area h5 {
+        font-size: 20px !important;
+    }
+
+    .section_title p {
+        font-size: 15px !important;
+    }
+
+    #intro_video_bg .intro_video_inner h3 {
+        font-size: 35px !important;
+    }
+
+    #food-menu .tab-navigation {
+        margin-top: 0px !important;
+        padding: 30px 0 !important;
+    }
+
+    #food-menu .section_title {
+        margin: 0 !important;
+    }
+
+    #food-menu .menu-item .menu-img {
+        border: 0 !important;
+    }
+
+    #food-menu .menu-text {
+        padding: 25px !important;
+        border: 1px solid #e7e7e7 !important;
+        border-radius: 100px 0px 623px 77px / 0px 50px 128px 58px !important;
+        background-color: #fff !important;
+        -webkit-transition: 0.5s;
+        transition: 0.5s !important;
+    }
+
+    #food-menu .menu-item {
+        background: transparent !important;
+    }
+
+    #food-menu .tab-navigation li {
+        margin: 15px 0 !important;
+    }
+
+    #team .single_item .item_text {
+        padding: 25px !important;
+    }
+
+    #team .single_item .item_text .social-icon {
+        margin-top: 20px !important;
+    }
+
+    #reservation {
+        padding: 15px !important;
+    }
+
+    .testimonial-bg::before {
+        height: 0 !important;
+        width: 0px !important;
+    }
+
+    .testimonial-bg .client-voice p {
+        font-size: 17px !important;
+    }
+
+    .testimonial-bg .client-voice h4 {
+        margin-top: 20px !important;
+        font-size: 17px !important;
+    }
+
+    .client-img {
+        margin: 15px 0 !important;
+    }
+
+    .single-blog .blog-text {
+        padding: 25px !important;
+    }
+
+    .single-blog .blog-text .date .date-item {
+        font-size: 12px !important;
+    }
+
+    .single-blog .blog-text h4 a {
+        font-size: 18px !important;
+        margin-top: 10px !important;
+    }
+
+    .single-blog .blog-text .date {
+        margin-bottom: 5px !important;
+    }
+
+    .single-blog .blog-text .read_btn a {
+        padding: 8px 0 !important;
+    }
+}
